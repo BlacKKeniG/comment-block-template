@@ -1,0 +1,24 @@
+
+[
+    {
+        "userName": "Demo comment",
+        "date": "2021-10-15",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur repellendus praesentium natus non veniam cupiditate cumque ab explicabo, molestias, error eos nostrum iusto ad quisquam quas pariatur incidunt exercitationem aut!",
+        "isLiked": "true",
+        "time": "20:20"
+    },
+    {
+        "userName": "Demo comment",
+        "date": "2023-03-12",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.  onsequuntur repellendus praesentium natus non veniam cupiditate cumque ab explicabo, molestias, error eos nostrum iusto ad quisquam quas pariatur incidunt exercitationem aut!",
+        "isLiked": "true",
+        "time": "16:16"
+    },
+    {
+        "userName": "Demo comment",
+        "date": "2023-03-13",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur repellendus praesentium natus non veniam cupiditate cumque ab explicabo, molestias, error eos nostrum iusto ad quisquam quas pariatur incidunt exercitationem aut!",
+        "isLiked": "false",
+        "time": "15:15"
+    }
+]
